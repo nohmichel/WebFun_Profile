@@ -1,0 +1,162 @@
+* {
+/*outline: 1px dotted red;*/
+
+}
+.container {
+	width: 810px;
+	height: 800px;
+	margin: auto;
+	background-image: linear-gradient(to bottom right, #2C0117, #765164, #2C0117);
+}
+
+.header {
+	width: 100%;
+	height: 50px;
+	background-image: linear-gradient(#F3F2F2,white);
+	}
+
+	.header h2 {
+		width: 450px;
+		margin: 0px;
+		padding: 0px 0px 0px 15px;
+		font-family: "Comic Sans MS", cursive, sans-serif;
+		display: inline-block;
+	}
+
+	.header h4 {
+		margin: 0px;
+		padding: 15px 0px 15px 0px;
+		font-family: "Arial Black", Gadget, sans-serif;
+		display: inline-block;
+	}
+
+
+#picture {
+	margin: 20px 10px 10px 20px;
+	width: 360px;
+	height: 215px;
+	outline: 4px solid silver;
+	border-color: grey;
+
+}
+
+#profile {
+	margin: 16px 10px 15px 15px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.topic {
+	margin: 0px;
+	padding: 8px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-image: linear-gradient(#A8A8A8, #818080, #A8A8A8);
+}
+
+#bio {
+	width: 360px;
+	height: 175px; 
+}
+
+.description {
+		width: 360px;
+		padding: 2px 10px 8px 10px;
+		background-image: linear-gradient(to bottom right, white, #E0D4E3);
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 12px;
+		display: inline-block;
+}
+		#continue {
+			color: black;
+		}
+
+.selections {
+	margin: 0px 0px 0px 15px;
+	width: 245px;
+	height: 475px; 
+	display:inline-block;
+	vertical-align: top;
+	background-image: linear-gradient(to bottom right, white, #E0D4E3);
+}
+
+.webimage {
+	width: 245px;
+
+}
+
+.project {
+	height: 120px;
+	margin:0px;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	display: inline-block;	
+}
+
+.technologies {
+	margin: 0px;
+	padding: 8px;
+	font-size: 14px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-image: linear-gradient(#A8A8A8, #818080, #A8A8A8);
+}
+
+.icon {
+	margin: 2px;
+	padding: 3px;
+	width: 35px;
+}
+
+button {
+	margin: auto;
+	display: block;
+	padding: 5px;
+	color: white;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;	
+	background-color: #5D8562;
+	border-radius: 10px;
+	border: 1px solid black;
+	box-shadow: 2px 2px 4px #979292;
+}
+
+#footer {
+	height: 60px;
+	margin: 0px;
+	padding: 5px 0px 0px 0px;
+	width: 100%;
+	height: 55px;
+	background-image: linear-gradient(white, #F3F2F2);
+}
+	#email {
+		margin: 0px;
+		text-align: center;
+		font-size: 12px;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	
+	#contacts {
+		margin: 0px 220px;
+		
+	}
+
+	.contact_links li {
+		display: inline;
+	}
+
+	.socials{
+		width: 15px;
+	}
+	.link{
+		font-size: 12px;
+		font-family: Arial, Helvetica, sans-serif;
+		color: black;
+		font-style: italic;
+
+	}
+	
